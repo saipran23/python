@@ -1,0 +1,15 @@
+conda create -p venv python==3.10
+
+conda activate venu/
+
+create a requirements.txt file and add the packages to install in the /venv environment.
+
+pip install -r requirements.txt
+
+
+.ipynb - creates a jupiter notebook file
+.py creates a normal python file
+
+to run the jupiter notebook , we have to install 2 packages
+1.pip install ipykernel
+2.

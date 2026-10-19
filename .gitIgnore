@@ -146,3 +146,10 @@ vite.config.ts.timestamp-*
 .vite/
 
 venu/
+
+venu/
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
